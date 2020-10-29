@@ -1,0 +1,7 @@
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.exe.config
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.pdb
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.csproj.CoreCompileInputs.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.pdb
